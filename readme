@@ -1,0 +1,8 @@
+1. INTRODUCTION
+QuickPlayer is lightweight music player written in C++ with Qt libraries
+
+2. INSTALLATION
+Simply download and unpack build.
+
+3. RUN
+Run qtplayer executable(.sh on Linux or .exe on Windows)
