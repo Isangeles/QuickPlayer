@@ -40,7 +40,6 @@ flycheck_*.el
 
 # projectiles files
 .projectile
-.pro
 .user
 .pro.
 
