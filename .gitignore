@@ -42,6 +42,7 @@ flycheck_*.el
 .projectile
 .pro
 .user
+.pro.
 
 # directory configuration
 .dir-locals.el
