@@ -4,8 +4,9 @@
 #
 #-------------------------------------------------
 
-QT       += core gui
-QT       += multimedia
+QT           += core gui
+QT           += multimedia
+QMAKE_LFLAGS += -static
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
