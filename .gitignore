@@ -39,9 +39,8 @@ flycheck_*.el
 /server/
 
 # projectiles files
-.projectile
-.user
-.pro.
+*.user
+*.pro.*
 
 # directory configuration
 .dir-locals.el
