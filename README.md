@@ -1,17 +1,24 @@
 ## Introduction
-
 QuickPlayer is lightweight music player written in C++ with Qt library.
 
 ## Installation
-
 Get [Qt5](https://www.qt.io/download) and build from source or download [build](https://github.com/Isangeles/QuickPlayer/releases).
 
-## Contact
+## Build
+[Qt5](https://www.qt.io/download) is required.
 
+Run:
+```
+  qmake ./QuickPlayer.pro
+```
+```
+  make
+```
+
+## Contact
 * Isangeles <<dev@isangeles.pl>>
 
 ## License
-
 Copyright 2018-2019 Dariusz Sikora <<dev@isangeles.pl>>
  
 This program is free software; you can redistribute it and/or modify

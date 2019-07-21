@@ -27,10 +27,10 @@
 #include <QListView>
 #include <QFileSystemModel>
 #include <QStandardPaths>
-#include <QMediaContent>
-#include <QMediaPlayer>
 #include <QMediaPlaylist>
+#include <QMediaPlayer>
 #include <iostream>
+
 /**
  * @brief The MusicPlayer class Class for music player
  */

@@ -40,7 +40,8 @@ flycheck_*.el
 
 # projectiles files
 *.user
-*.pro.*
+*.user.*
+/build/
 
 # directory configuration
 .dir-locals.el
